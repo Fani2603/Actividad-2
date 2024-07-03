@@ -1,0 +1,2 @@
+Estructura de control :Nos permite manejar y tener mas control sobre nuestro codigo y de este modo podemos darle la correcta orientacion en funcion de ciertas condiciones lo que en adelante conoceremos como Bifurcaciones o blucles.
+las Bifurcaciones nos permiten ir pon un camino u otro si se cumplen la condicion o y por el camino necesario hasta que la condicion se cumpla 
