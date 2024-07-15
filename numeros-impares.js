@@ -1,0 +1,13 @@
+//realiza un programa que sume todos los numeros impares de 0 al 1000
+let suma = 0;
+let i = 0;
+
+while (i <= 1000) {
+  if (i % 2 !== 0) {
+    suma += i;
+  } else {
+  }
+  i++;
+}
+
+console.log("La suma de todos los números impares es:"+suma);

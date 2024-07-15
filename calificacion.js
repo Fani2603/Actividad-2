@@ -15,4 +15,3 @@ if (nota >=90  && nota<=100){
     console.log("El alumno obtuvo una E");
 }
 
-2
